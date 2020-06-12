@@ -1,2 +1,4 @@
 # Pixel_Art
-A pixel art Web App JS HTTP CSS
+A simple Pixel art Web App made only wit JS,HTTP and CSS. Wich let you draw a grid and color it.
+
+![Screenshot](/CaptureX.PNG)
